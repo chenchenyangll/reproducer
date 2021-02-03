@@ -11,10 +11,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
-        <morphia.version>2.1.1</morphia.version>
-        <!-- use this one for version before 2.0 -->
-<!--        <morphia.artifactId>core</morphia.artifactId>-->
+        <morphia.version>2.1.4</morphia.version>
         <morphia.artifactId>morphia-core</morphia.artifactId>
         <slf4j.version>1.7.25</slf4j.version>
     </properties>
@@ -52,7 +49,7 @@
         <dependency>
             <groupId>com.antwerkz.bottlerocket</groupId>
             <artifactId>bottlerocket</artifactId>
-            <version>0.13</version>
+            <version>0.14</version>
         </dependency>
     </dependencies>
 </project>
